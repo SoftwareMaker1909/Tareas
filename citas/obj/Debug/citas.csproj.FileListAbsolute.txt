@@ -1,0 +1,11 @@
+C:\Users\diego\source\repos\Loteria\citas\bin\Debug\citas.exe.config
+C:\Users\diego\source\repos\Loteria\citas\bin\Debug\citas.exe
+C:\Users\diego\source\repos\Loteria\citas\bin\Debug\citas.pdb
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.Form1.resources
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.Properties.Resources.resources
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.exe
+C:\Users\diego\source\repos\Loteria\citas\obj\Debug\citas.pdb
